@@ -6,9 +6,9 @@ There are many ways to valuate a firm, the two main approaches for valuating are
 
 Yahoo Finance provides financial statement from enterprises that are in the stock market from all parts of the world.
 
-I'm extracting data from Damodaran online, which is a blog from connotaded NYU professor Aswath Damodaran. In this blog he posts his own estimations of relevant data that is used to valuate firms, such as discount rates, risk premiums, growth rates by industries and geographic location.
+I'm extracting data from Damodaran online, a blog from connotaded NYU professor Aswath Damodaran where he posts relevant information that can be used for calculations. In this blog he posts his own estimations of relevant data that is used to valuate firms, such as discount rates, risk premiums, growth rates by industries and geographic location.
 
-The purpose of this project is to integrate Damodaran's contributions to directly estimate the value of a firm. 
+The purpose of this project is to integrate Damodaran's contributions with yfinance library to create a function that returns the Enterprise Value of a firm. 
 
 
 ## Damodaran
