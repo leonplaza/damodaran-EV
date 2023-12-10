@@ -47,3 +47,7 @@ Once we have all the information described above, we can calculate the discounte
 
 With all the information, the function's output represent the Enterprise Value estimation
 
+
+### Benchmark
+Yfinance also provides his own Enterprise Value estimation, we can use it as a benchmark to check the overall performance of the function
+
