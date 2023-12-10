@@ -42,3 +42,8 @@ YFinance:
 ### Enterprise Value Calculation
 
 Once we have all the information described above, we can calculate the discounted cash flow
+
+![Alt text](https://github.com/leonplaza/damodaran-EV/blob/master/images/formulas.png)
+
+With all the information, the function's output represent the Enterprise Value estimation
+
